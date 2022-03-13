@@ -12,3 +12,4 @@ async function callApi() {
   };
   callApi();
 
+export default newWord;
