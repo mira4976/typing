@@ -6,3 +6,8 @@ body{
 h1{
     font-size: 120px;
 }
+
+.input_and_submit{
+    display: flex;
+    justify-content: center;
+}
